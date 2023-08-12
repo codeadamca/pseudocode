@@ -9,7 +9,7 @@ A repo to store standards for writing useful pseudocode.
 
 ## Project Stack
 
-This project uses only basic HTML in [Markdown](https://www.markdownguide.org/) file. This allows us to use basic HTML for our content and still include the GitHub default styling.
+This project uses only basic HTML in [Markdown](https://www.markdownguide.org/) files. This allows us to use basic HTML for our content and still include the GitHub default styling.
 
 This repo is hosted using [GitHub Pages](https://pages.github.com/).
 
