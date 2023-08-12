@@ -22,9 +22,7 @@ This repo is hosted using [GitHub Pages](https://pages.github.com/).
 
 ## Repo Resources
 
-- [BrickMMO Set Hacathon](https://brickmmo.github.io/hackathon-set/)
-- [GitHub - About README.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-- [Markdown](https://www.markdownguide.org/)
+- [Pseudocode](https://pseudocode.codeadam.ca)
 
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
