@@ -21,11 +21,6 @@ This repo is hosted using [GitHub Pages](https://pages.github.com/).
 
 - [Pseudocode](https://pseudocode.codeadam.ca)
 
-<a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
 </a>
-
-
-https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
-
-https://gist.github.com/camilstaps/59c4574ab8131fb83612a446606cbcba
