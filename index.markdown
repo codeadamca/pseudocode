@@ -1,5 +1,3 @@
-<h1>pseudocode</h1>
-
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
 <ul>
