@@ -1,6 +1,35 @@
-# pseudocode
+# Pseudocode Standards
 
-Pseudocode standards
+A repo to store standards for writing useful pseudocode.
+
+> **Note**  
+> All Markdown should follow the [\_readme](https://readme.codeadam.ca/) guidelines.
+
+> This repo is available to view at  
+> [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)
+
+---
+
+## Project Stack
+
+This project uses only basic HTML in [Markdown](https://www.markdownguide.org/) file. This allows us to use basic HTML for our content and still include the GitHub default styling.
+
+This repo is hosted using [GitHub Pages](https://pages.github.com/).
+
+<img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60">
+
+---
+
+## Repo Resources
+
+- [BrickMMO Set Hacathon](https://brickmmo.github.io/hackathon-set/)
+- [GitHub - About README.md files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [Markdown](https://www.markdownguide.org/)
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
+</a>
+
 
 https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html
 
