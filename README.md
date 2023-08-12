@@ -2,9 +2,6 @@
 
 A repo to store standards for writing useful pseudocode.
 
-> **Note**  
-> All Markdown should follow the [\_readme](https://readme.codeadam.ca/) guidelines.
-
 > This repo is available to view at  
 > [https://pseudocode.codeadam.ca](https://pseudocode.codeadam.ca)
 
