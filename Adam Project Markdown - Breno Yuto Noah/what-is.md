@@ -128,4 +128,3 @@ Excerpted from the original at https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_st
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
 </a>
-
