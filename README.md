@@ -13,7 +13,7 @@ This project uses only basic HTML in [Markdown](https://www.markdownguide.org/) 
 
 This repo is hosted using [GitHub Pages](https://pages.github.com/).
 
-<img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60">
+<img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/markdown" width="60">
 
 ---
 
